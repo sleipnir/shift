@@ -1,3 +1,4 @@
-Primeira linha do arquivo 4
+Primeira linha do arquivo 4.
 
 Alterado arquivo 4
+Alterado arquivo 4 remotamente
